@@ -58,7 +58,7 @@ The current phase of the project concludes with preprocessing and the preparatio
 
 - **Presenting**: The final stage of the project will focus on analyzing, visualizing and reporting key findings. Github website will be developed to present results interactively. The project will conclude with clear documentation and final reporting of all steps and insights.
 
-  # Datasets Used
+# Datasets Used
 - **[UCI Student Performance Dataset](https://archive.ics.uci.edu/dataset/320/student+performance)**  
   Contains student achievement data in secondary education, including grades and various student background factors.
 
