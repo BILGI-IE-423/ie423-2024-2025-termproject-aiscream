@@ -57,7 +57,8 @@ The current phase of the project concludes with preprocessing and the preparatio
 - **Modelling**: After training several machine learning models, their performance will be evaluated using appropriate metrics based on the prediction task. The evaluation will guide model selection, and the chosen models will try to predict student outcomes using only background-related features. Following this, models will be validated using cross-validation techniques to ensure generalizability and robustness. The final testing phase will involve evaluating the best-performing models on unseen data to assess their real-world applicability. Results will be analyzed and interpreted in the context of the research questions.
 
 - **Presenting**: The final stage of the project will focus on analyzing, visualizing and reporting key findings. Github website will be developed to present results interactively. The project will conclude with clear documentation and final reporting of all steps and insights.
-- 
+
+  # Datasets Used
 - **[UCI Student Performance Dataset](https://archive.ics.uci.edu/dataset/320/student+performance)**  
   Contains student achievement data in secondary education, including grades and various student background factors.
 
