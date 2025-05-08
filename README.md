@@ -48,6 +48,12 @@ Train-Test Split: Each dataset was split into training and test sets using an 70
 Split Checks: Histograms were generated to compare the train/test distribution of the target variable in each dataset.
 File Export: A total of 8 CSV files were created, train and test versions for each of the four datasets(mat,por,main,factors).
 
+# Future Work
+
+The current phase of the project concludes with preprocessing and the preparation of train and test datasets. The following steps are planned as:
+
+- **Exploratory Data Analysis (EDA)**: Although we have already split the datasets into training and test sets, we will temporarily merge them back during EDA. This will allow us to explore overall distributions and investigate correlations better. In the project, EDA is not seen as a preliminary task, and not included in the preprocessing part, but rather as a core analytical phase where the main research questions will begin to be addressed. While preprocessing is focused on preparing and organizing the data, EDA will mark the start of actual investigation into how uncontrollable background variables relate to academic performance.
+
 
 ## Datasets Used
 
