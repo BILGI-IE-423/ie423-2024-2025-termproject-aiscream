@@ -54,9 +54,8 @@ The current phase of the project concludes with preprocessing and the preparatio
 
 - **Exploratory Data Analysis (EDA)**: Although we have already split the datasets into training and test sets, we will temporarily merge them back during EDA. This will allow us to explore overall distributions and investigate correlations better. In the project, EDA is not seen as a preliminary task, and not included in the preprocessing part, but rather as a core analytical phase where the main research questions will begin to be addressed. While preprocessing is focused on preparing and organizing the data, EDA will mark the start of actual investigation into how uncontrollable background variables relate to academic performance.
 
-
-## Datasets Used
-
+- **Model Selection and Training**: After training several machine learning models, their performance will be evaluated using appropriate metrics based on the prediction task. The evaluation will guide model selection, and the chosen models will try to predict student outcomes using only background-related features.
+- 
 - **[UCI Student Performance Dataset](https://archive.ics.uci.edu/dataset/320/student+performance)**  
   Contains student achievement data in secondary education, including grades and various student background factors.
 
