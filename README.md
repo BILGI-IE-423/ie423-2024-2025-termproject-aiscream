@@ -22,7 +22,7 @@ This study is guided by the central question: How much of a student’s success 
 - **RQ2: Which uncontrollable factors are most consistently linked with above- or below-average performance?**  
   _We aim to highlight which home or background-related features may be warning signs of academic risk._
 
-- **RQ3: Is it possible to flag potentially at-risk students early on, using only background data—before their grades begin to drop?**
+- **RQ3: Is it possible to flag potentially at-risk students early on, using only background data?**
   _This could help teachers and schools provide timely, targeted support to students who may be silently struggling._
   
 By focusing on what students bring with them to the classroom—before they even open a textbook—this project hopes to support more informed, sensitive, and proactive educational practices.
