@@ -1,3 +1,10 @@
+# Beneath the Surface: Quiet Factors in Student Success
+Revhat Umut Akdoğan 120203012
+
+Eren Gümüşay 121203082
+
+Mohammad Eid Shokri Siag 121203010
+
 # Abstract
 
 This research project investigates the extent to which student academic performance can be shaped by factors beyond their control—such as family background, home environment, and socioeconomic context. Using machine learning models trained on features including parental involvement, household income, and access to educational resources, the study explores how these elements relate to academic outcomes. The core aim is to help educators better understand which students may be at risk of falling behind—not because of effort or motivation, but due to structural disadvantages at home that are often invisible in the classroom. By identifying these patterns, the study seeks to inform practical, empathy-driven approaches that allow teachers to offer timely and appropriate support to students who may otherwise go unnoticed.
