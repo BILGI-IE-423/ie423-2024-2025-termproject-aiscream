@@ -12,11 +12,11 @@ gantt
 
     section Modeling
     Splitting Train and Test Datasets                        :b1, 2025-05-01, 2025-05-04
-    Choosing and Developing the Model                        :b2, 2025-05-04, 2025-05-14
-    Validating the Model                                      :b3, 2025-05-14, 2025-05-18
-    Testing the Model and Making Evaluations                  :b4, 2025-05-18, 2025-05-25
+    Exploratory Data Analysis                                :b2, 2025-05-04, 2025-05-09
+    Choosing and Developing the Model                        :b3, 2025-05-09, 2025-05-14
+    Validating the Model                                      :b4, 2025-05-14, 2025-05-18
+    Testing the Model and Making Evaluations                  :b5, 2025-05-18, 2025-05-25
 
     section Presenting
     Analyzing, Visualizing and Reporting the Findings         :c1, 2025-05-25, 2025-06-07
     Preparing the Website and Closure                         :c2, 2025-06-07, 2025-06-10
-
