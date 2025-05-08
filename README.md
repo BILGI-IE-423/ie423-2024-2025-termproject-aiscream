@@ -29,7 +29,19 @@ By focusing on what students bring with them to the classroom—before they even
 
 # Preprocessing 
 
-Team Name: **AiScReam**
+## Datasets Used
+
+- **[UCI Student Performance Dataset](https://archive.ics.uci.edu/dataset/320/student+performance)**  
+  Contains student achievement data in secondary education, including grades and various student background factors.
+
+- **[Student Performance Factors Dataset (Kaggle)](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors)**  
+  Offers insights into multiple factors influencing student performance such as family background, parental education, and school-related variables.
+
+- **[Students Performance Dataset (Kaggle)](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)**  
+  A clean and structured dataset focused on students’ academic results, gender, test preparation, and parental education.
+
+
+## Team Name: **AiScReam**
 
 **Team Members:**
 
