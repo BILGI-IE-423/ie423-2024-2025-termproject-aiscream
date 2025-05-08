@@ -31,11 +31,7 @@ By focusing on what students bring with them to the classroom—before they even
 
 Preprocessing is applied to all four datasets used in the study, referred to as por, mat, main, and factors. These names are used solely for identification; all datasets serve the same analytical purpose and share a largely overlapping set of features, with some unique features.
 
-Preprocessing was applied separately to all four datasets. Most features were retained at this stage to preserve the full context of each student’s profile. While a few columns were removed for specific reasons (detailed below), features related to controllable behaviors, such as study time are intentionally kept. These variables, although not the primary focus of the analysis, are useful for:
-
-identifying potential outliers in the dataset,
-providing additional context when interpreting background factors,
-and supporting exploratory analysis or validation checks during the modeling phase.
+Preprocessing was applied separately to all four datasets. Most features were retained at this stage to preserve the full context of each student’s profile. While a few columns were removed for specific reasons (detailed below), features related to controllable behaviors, such as study time are intentionally kept. These variables, although not the primary focus of the analysis, are useful for; identifying potential outliers in the dataset, providing additional context when interpreting background factors and supporting exploratory analysis or validation checks during the modeling phase.
 
 Removed Columns:
 
