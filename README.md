@@ -1,9 +1,4 @@
 # Beneath the Surface: Quiet Factors in Student Success
-Revhat Umut Akdoğan 120203012
-
-Eren Gümüşay 121203082
-
-Mohammad Eid Shokri Siag 121203010
 
 # Abstract
 
@@ -33,4 +28,13 @@ By focusing on what students bring with them to the classroom—before they even
 
 # Preprocessing 
 
+Team Name: **AiScReam**
+
+**Team Members:**
+
+* Revhat Umut Akdoğan 120203012
+
+* Eren Gümüşay 121203082
+
+* Mohammad Eid Shokri Siag 121203010
 
