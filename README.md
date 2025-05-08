@@ -41,7 +41,7 @@ Dalc and Walc (from 'mat' and 'por': Removed due to ethical and contextual conce
 
 Steps Applied to Each Dataset:
 
-Missing Values: Imputed using median for numerical columns and mode for categorical ones.
+Missing Values: Imputed using mean for numerical columns and mode for categorical ones.
 Encoding: All categorical variables were label encoded to ensure compatibility with ML models.
 Scaling: Numerical columns were standardized using z-score normalization.
 Train-Test Split: Each dataset was split into training and test sets using an 70-30 ratio. All remaining columns are retained in both sets.
