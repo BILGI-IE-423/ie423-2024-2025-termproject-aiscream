@@ -43,7 +43,6 @@ Steps Applied to Each Dataset:
 
 Missing Values: Imputed using mean for numerical columns and mode for categorical ones.
 Encoding: All categorical variables were label encoded to ensure compatibility with ML models.
-Scaling: Numerical columns were standardized using z-score normalization.
 Train-Test Split: Each dataset was split into training and test sets using an 70-30 ratio. All remaining columns are retained in both sets.
 Split Checks: Histograms were generated to compare the train/test distribution of the target variable in each dataset.
 File Export: A total of 8 CSV files were created, train and test versions for each of the four datasets(mat,por,main,factors).
