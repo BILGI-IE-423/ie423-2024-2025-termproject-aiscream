@@ -13,8 +13,8 @@ This perspective is particularly valuable in contexts where teachers may not hav
 # Research Questions 
 
 This study is guided by the central question: How much of a student’s success is shaped by factors outside their control? To explore this, we ask:
-* RQ1: To what extent can we anticipate student performance using only uncontrollable background features?
-  This question helps us understand whether external circumstances have a noticeable pattern in predicting outcomes.
+* RQ1: Are student outcomes significantly affected by uncontrollable background variables?
+  This question helps us understand whether external circumstances have a noticeable pattern in academic outcomes.
 
 * RQ2: Which uncontrollable factors are most consistently linked with above- or below-average performance?
   We aim to highlight which home or background-related features may be warning signs of academic risk.
@@ -23,4 +23,7 @@ This study is guided by the central question: How much of a student’s success 
   This could help teachers and schools provide timely, targeted support to students who may be silently struggling.
   
 By focusing on what students bring with them to the classroom—before they even open a textbook—this project hopes to support more informed, sensitive, and proactive educational practices.
+
+# Preprocessing 
+
 
