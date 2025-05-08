@@ -68,9 +68,8 @@ The current phase of the project concludes with preprocessing and the preparatio
   A clean and structured dataset focused on students’ academic results, gender, test preparation, and parental education.
 
 
-## Team Name: **AiScReam**
 
-**Team Members:**
+**Researchers:**
 
 * Revhat Umut Akdoğan 120203012
 
