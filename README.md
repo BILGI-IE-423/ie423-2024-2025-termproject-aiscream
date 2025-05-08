@@ -42,7 +42,7 @@ Dalc and Walc (from 'mat' and 'por': Removed due to ethical and contextual conce
 Steps Applied to Each Dataset:
 
 Missing Values: Imputed using mean for numerical columns and mode for categorical ones.
-Encoding: All categorical variables were label encoded to ensure compatibility with ML models.
+Encoding: Binary categorical variables were mapped to 0 and 1, while nominal variables were one-hot encoded using dummy variables. Some categorical values were kept as they are because they represent an ordinal relationship.
 Train-Test Split: Each dataset was split into training and test sets using an 70-30 ratio. All remaining columns are retained in both sets.
 Split Checks: Histograms were generated to compare the train/test distribution of the target variable in each dataset.
 File Export: A total of 8 CSV files were created, train and test versions for each of the four datasets(mat,por,main,factors).
