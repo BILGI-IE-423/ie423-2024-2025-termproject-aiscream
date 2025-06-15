@@ -6,7 +6,7 @@ This project aims to identify and quantify the factors that influence a student'
 - Understand which features matter most in general,
 - See how uncontrollable factors (e.g. parental education, access to resources) affect student performance in specific.
 - Build a predictive model for general prediction and another model just focused on environmental factors.
-- Ultimately, help educators to take early actions for students at risk and give students an idea about what to focus on to improve their academic success.
+- Ultimately, answering is academic success is only hardwork or also destiny, and help educators to take early actions for students at risk and give students an idea about what to focus on to improve their academic success.
 
 
 ---
