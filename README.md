@@ -9,9 +9,7 @@ This project aims to identify and quantify the factors that influence a student'
 - Build a predictive model for general prediction and another model just focused on environmental factors.
 - Ultimately, answering is academic success is only hardwork or also destiny, and help educators to take early actions for students at risk and give students an idea about what to focus on to improve their academic success.
 
-## Website
-https://erengumusay.github.io/423project/
----
+
 
 ##  Exploratory Data Analysis (EDA)
 
