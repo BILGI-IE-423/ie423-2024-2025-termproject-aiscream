@@ -270,6 +270,8 @@ Be open about pressure, expectations, and how they can support you without press
 - Jupyter Notebooks
 - Ridge Regression, LightGBM, ANOVA, correlation analysis
 
+## Contributors
+  
 - Eren Gümüşay 121203082  
 - Revhat Umut Akdoğan 120203012
 - Mohammad Siag 121203010
